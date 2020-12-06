@@ -1,2 +1,2 @@
-# Finance-Trading's README
-# finance-trading
+# README.md
+# Financial Trading using Python
